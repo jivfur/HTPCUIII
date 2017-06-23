@@ -1,3 +1,9 @@
+/*
+author:jivfur
+date: 06/23/2017
+Description: Como programar en C/C++ ejercicio 3.17
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
